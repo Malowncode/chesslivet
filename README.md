@@ -1,2 +1,2 @@
 "# chesslivet" 
-hi i am a new member of GitHub
+hi i am a new member on GitHub
